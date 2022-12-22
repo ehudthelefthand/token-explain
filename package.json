@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "base64url": "^3.0.1",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {},
   "scripts": {
